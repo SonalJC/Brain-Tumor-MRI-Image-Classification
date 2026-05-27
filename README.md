@@ -37,7 +37,7 @@ Brain tumor detection from MRI scans is a critical medical task that requires hi
 
 ---
 
-## 🚀 How To Run
+## How To Run
 
 ```bash
 # 1. Clone the repository
