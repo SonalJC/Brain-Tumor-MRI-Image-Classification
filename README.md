@@ -36,7 +36,10 @@ Brain tumor detection from MRI scans is a critical medical task that requires hi
 - Real-time prediction with confidence score
 
 ---
+## 📊 Dataset
+Dataset: [Download from Google Drive](https://drive.google.com/drive/folders/1xQXJv3MlJF5yzp28QAHUYTAST6WUqDZK?usp=sharing)
 
+---
 ## How To Run
 
 ```bash
