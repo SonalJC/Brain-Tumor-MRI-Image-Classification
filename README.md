@@ -1,25 +1,25 @@
-# 🏗️ Infrastructure Damage Detection
+# Infrastructure Damage Detection
 
 A deep learning project that detects structural damage in infrastructure from images using **MobileNetV2** and **Streamlit**.
 
 ---
 
-## 📌 About The Project
+## About The Project
 
 Identifying infrastructure damage quickly is critical in disaster response and civil engineering. This project uses transfer learning with MobileNetV2 to automatically classify whether a structure is damaged or not — deployed as a real-time web application.
 
 ---
 
-## 🎯 Results
+## Results
 
 | Metric | Score |
 |--------|-------|
-| 🏋️ Training Accuracy | **94.17%** |
-| ✅ Validation Accuracy | **89.17%** |
+|  Training Accuracy | **94.17%** |
+|  Validation Accuracy | **89.17%** |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python
 - **Deep Learning:** TensorFlow / Keras
@@ -30,7 +30,7 @@ Identifying infrastructure damage quickly is critical in disaster response and c
 
 ---
 
-## ✨ Features
+## Features
 
 - Upload infrastructure images for real-time damage prediction
 - Fine-tuned MobileNetV2 with data augmentation for better generalization
@@ -39,7 +39,7 @@ Identifying infrastructure damage quickly is critical in disaster response and c
 
 ---
 
-## 🚀 How To Run
+##  How To Run
 
 ```bash
 # 1. Clone the repository
@@ -54,7 +54,7 @@ streamlit run app.py
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── app.py                        # Streamlit web application
